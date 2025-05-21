@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="index.css" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <script src="main.js"></script>
+
+    <title>Cartas</title>
+  </head>
+  <body id="documento">
+    <button id="createpdf">
+      <img id="download" src="./img/download.png" alt="Baixar PDF" />
+      <p>Download</p>
+    </button>
+    <p id="aguarde">Aguarde o carregamento da página</p>
+    <p id="andamento">
+      Download em andamento, aguarde (caso o download demorar mais de 5 minutos,
+      tente novamente ou comunique ao suporte)
+    </p>
+    <div id="toprint"></div>
+    <div id="iframediv"></div>
+    <div id="carregando">Aguarde um momento</div>
+    <script src="cartas2.js"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.js"
+      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://html2canvas.hertzen.com/dist/html2canvas.js"
+    ></script>
+    <script src="createpdf.js"></script>
+  </body>
+</html>

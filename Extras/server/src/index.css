@@ -1,0 +1,426 @@
+body {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  width: 315mm;
+  margin: 0;
+  font-size: 2.5ch;
+  font-family: Arial;
+}
+
+#createpdf {
+  border: 0;
+  background-color: transparent;
+  width: 20mm;
+  height: auto;
+}
+
+#download {
+  width: 20mm;
+  height: auto;
+}
+
+#createpdf p {
+  position: relative;
+  top: 15px;
+  bottom: 0;
+}
+
+#assinatura,
+#assinatura2,
+#fpvassinatura,
+#fecassinatura {
+  position: absolute;
+  right: 58%;
+  bottom: 2%;
+  width: auto;
+  height: 5rem;
+}
+
+#assinatura2 {
+  right: 61%;
+  bottom: 63%;
+}
+
+#toprint {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.lititle {
+  font-weight: bold;
+}
+#carregando {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display: flex;
+}
+
+#cabecalho {
+  display: flex;
+  flex-direction: row;
+}
+
+#lowerheader {
+  position: relative;
+  padding-left: 10%;
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+}
+
+#assinaturadiv {
+  position: relative;
+  left: 50%;
+}
+
+#hunterhlogo {
+  height: 6rem;
+  width: auto;
+}
+
+#recrutamento {
+  position: relative;
+  left: 37%;
+}
+
+#separator {
+  background-color: #000000;
+  height: 4px;
+  width: 100%;
+}
+
+#prestacao {
+  max-width: 40%;
+  position: relative;
+  left: 60%;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.lacuna {
+  width: fit-content;
+  background-color: #c0c0c0;
+}
+
+#infoempresa {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.infoempresa {
+  background-color: #d9d9d9;
+  border-bottom: solid #000000 2px;
+}
+.infoempresa p {
+  text-align: left;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#infolocal,
+#infocontato,
+#infopessoal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#tabelapercentual,
+#tablecargo {
+  width: 100%;
+  border: 0.05rem solid #000000;
+  border-spacing: 0px;
+}
+
+#tabelapercentual td,
+#tablecargo td {
+  border: 0.05rem solid #000000;
+  text-align: center;
+}
+
+#tabelapercentual .linha0,
+#tablecargo .linha0 {
+  border: 0.05rem solid #000000;
+  background-color: #d9d9d9;
+  font-weight: bold;
+}
+
+#pagamentotable {
+  width: 100%;
+  border: 0.05rem solid #000000;
+  border-spacing: 0px;
+}
+
+#pagamentotable td {
+  border: 0.05rem solid #000000;
+  text-align: center;
+}
+
+#pagamentotable .linha0 {
+  border: 0.05rem solid #000000;
+  background-color: #d9d9d9;
+  font-weight: bold;
+}
+
+#assinaturas {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20%;
+  padding-right: 10%;
+  font-weight: bold;
+}
+
+#assinaturas p {
+  border-top: solid 1px #000000;
+  text-align: center;
+}
+
+#date {
+  font-weight: bold;
+  background-color: #c0c0c0;
+  text-align: left;
+  width: fit-content;
+}
+
+footer {
+  border-top: solid 4px #000000;
+}
+
+.pagenumber {
+  text-align: right;
+}
+
+#fpvhunterhlogo {
+  max-height: 8rem;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#FPVHeader {
+  display: flex;
+  align-content: center;
+}
+
+#corpo {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+#corpo #titulo {
+  background-color: black;
+  text-align: center;
+  border: dotted black;
+  color: white;
+  margin-bottom: 1%;
+}
+
+.FPVcabecalho {
+  background-color: #e6da14;
+  text-align: center;
+  border: solid black 1px;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.FPV table {
+  width: 100%;
+  border: 0.05rem solid #9bbb59;
+  border-spacing: 0px;
+}
+
+.FPV table td {
+  border: 0.05rem solid #9bbb59;
+  text-align: left;
+}
+
+#fpvseparator {
+  margin: auto;
+  background-color: #622423;
+  height: 4px;
+  width: 80%;
+}
+
+#fpvseparator {
+  margin-bottom: 1px;
+}
+
+#fpvfooter {
+  margin-top: 0;
+  border: 0;
+  display: flex;
+}
+
+#fpvfooter p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#fpvassinaturacliente {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: 5%;
+}
+
+#fpvassinaturas p {
+  border-top: solid 1px #000000;
+  text-align: center;
+}
+
+.fecp {
+  text-align: center;
+}
+
+#fechunterhlogo {
+  max-height: 8rem;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#FECHeader {
+  display: flex;
+  align-content: center;
+}
+
+#head,
+#title,
+#numbers,
+#numberscontainer {
+  display: flex;
+  background-color: #ffc000;
+  padding: 0;
+  text-align: center;
+}
+
+#numbers {
+  margin: auto;
+  width: fit-content;
+}
+
+#head p,
+#title p {
+  border: 0.05rem solid #000000;
+  margin: 0;
+  width: 100%;
+}
+#head p {
+  text-align: left;
+}
+#title p {
+  text-align: center;
+}
+
+.empty {
+  width: 100%;
+}
+#numbers p {
+  border: 0.05rem solid #000000;
+  margin: 0;
+  text-align: center;
+}
+
+.contentcontainer {
+  display: flex;
+  padding: 0;
+  text-align: center;
+}
+
+.content {
+  background-color: #1f4d78;
+  color: white;
+  border: 0.05rem solid #000000;
+  margin: 0;
+  width: 100%;
+  text-align: left;
+}
+
+#contentleft {
+  text-align: right;
+}
+
+#contentright {
+  text-align: left;
+}
+
+#checkboxcontainer {
+  display: flex;
+  flex-direction: row;
+  width: 55%;
+  background-color: transparent;
+}
+
+.checkbox {
+  border: 0.05rem solid #000000;
+  height: 0.5rem;
+  width: 0.5rem;
+  margin: auto;
+  background-color: transparent;
+}
+
+.checkbox p {
+  font-size: medium;
+  position: relative;
+  top: -21px;
+  left: -2px;
+}
+
+#fecassinaturacliente {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: 5%;
+}
+
+#fecassinaturas p {
+  border-top: solid 1px #000000;
+  text-align: center;
+}
+
+#fpvassinatura {
+  right: 22%;
+  bottom: 50%;
+}
+
+#fecassinatura {
+  right: 21%;
+  bottom: 51%;
+}
+
+iframe {
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 315mm;
+  height: 83rem;
+  border: none;
+  margin: 0;
+  padding-left: 5%;
+  overflow: hidden;
+  z-index: 999999;
+}

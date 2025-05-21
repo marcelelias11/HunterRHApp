@@ -1,0 +1,289 @@
+;EMPRESA ;TELEFONE;SEGMENTO;CONTATO;1º NOME;CARGO;ENDEREÇO;CEP;CIDADE;ESTADO 
+1;Aeroportos Nordeste do Brasil S.A. (Aena Brasil);(79) 3212-8500;OPERADORA AEROPORTUÁRIA;Silmara Gomes;Silmara;Gerente de RH;Av. Sen. Júlio César Leite, 1440 - Aeroporto;49037-580;Aracaju;SE
+3;Águas Do Velho Chico Hotel ;(79) 3346-1310;HOTEL;Gilvan Barreto ;Gilvan ;CEO;Rod. SE 206 - KM.52- Serra do Chapéu de Couro;49820-000;Canindé do São Francisco;SE
+4;Altenburg;(79) 3114-4000;INDÚSTRIA TÊXTIL;Roberto Zamprogna;Roberto;Gerente Geral;Av. Industrial Sadi Gitz, 687 - Distrito Industrial, Nossa Sra. do Socorro - SE, 49152-360;49152-360;Nossa Sra. do Socorro;SE
+5;Alumínio Barbosa Panelas & Cia;(79) 3252-1062;INDÚSTRIA;;;;Av. D, 351 - Distrito Industrial;49152-416;Nossa Sra. do Socorro;SE
+6;AmBev Águas Claras do Norte;"(19) 3313-6039 
+(19) 3313-6000";INDUSTRIA ALIMENTICIA;Rafael Grandelle Ramos;Rafael ;Plant General Manager;Rod.  BR 101, S/N - KM: 133 - Industrial;49200-000  ;Estância;SE
+7;Aquários Praia Hotel ;(79) 2107-5200;HOTEL;Alessandro Dantas;Alessandro;Diretor Geral;Av. Santos Dumont,1378;49037-485;Atalaia;SE
+8;Arcus Hotel;(79) 3512-2450;HOTEL;;;;Av. Mario Jorge Menezes Vieira, 428 - Coroa do Meio;49035-660;Aracaju ;SE
+9;Aruanã Eco Praia Hotel;(79) 2105-5200;HOTEL;Bruna Libório;Bruna ;Vice-diretora;Av. Inácio Barbosa,1000 - Aruana ;49001-377;Aracaju;SE
+10;Ases - Associação Sergipana de Supermercados;(79) 3211-4489;ASSOCIAÇÃO;Messias Peixoto;Messias;Presidente;R. Campos, 496 - São José;49015-220;Aracaju ;SE
+11;Atalaia Apart Hotel;(79) 3243-1616;APART HOTEL;Elinaldo Damascena Santos;Elinaldo ;Sócio-Administrador;Av. Beira Mar, n° 1140 ;49032-000;Aracaju;SE
+12;Banco Daycoval;(79) 99139-5087;BANCO;Enrico Luduvice;Enrico ;Gerente geral;Av. Min. Geraldo Barreto Sobral, 2100 -  JFC Trade Center - Salas 1206/1207 - Jardins;49026-010;Aracaju;SE
+13;Banco DelBank;"(79) 3142-0491
+ (79) 2104-7250";BANCO;Nilton Carlos Alves Andrade;Nilton;Presidente;Av. Rio Branco, 186 - Centro;49010-030;Aracaju;SE
+14;Banco Itaú;(79) 3214-2622;BANCO;Amanda Borgo ;Amanda;Gerente Geral ;R. João Pessoa, 331 - Centro;49010-130;Aracaju ;SE
+15;Banco Santander;4004-3535;BANCO;Mario Roberto Opice Leão;Mario ;Presidente;Av. Francisco Porto, 902 - Jardins;49020-570;Aracaju;SE
+16;Banco Sicoob; (79) 3259-1628;BANCO;Carlos Eduardo S. do Valle;Carlos ;Gerente;Av. Hermes Fontes, 435 - São José;49015-350;Aracaju;SE
+17;Banco Sicredi ;(79) 2106-7191;BANCO;Carla Lordêlo;Carla ;Coordenadora de RH;R. José Carvalho Pinto, 280 - Jardins;49026-150;Aracaju;SE
+18;Barros Filhos Imóveis Limitada;(79) 3214-3013;IMOBILIARIA;Claudia Barros ;Claudia;Diretora ;R. Dr. Celso Oliva, 165 - 13 de Julho;49020-090;Aracaju;SE
+19;Brasflex Colchões;(79) 3256-9240;INDÚSTRIA;;;;R. 8, 670 - Distrito Industrial, Nossa Sra. do Socorro - SE, 49152-374;49152-374;Nossa Sra. do Socorro;SE
+20;BTS Ambiental;(79) 3214-2968;PRESTADORA DE SERVIÇOS URBANOS;"Everaldo Correia 
+";"
+Everaldo
+";Presidente;Av. Hermes Fontes, 1324 - Suissa;49020-120;Aracaju;SE
+21;BTS Ambiental;(79) 3214-2968;PRESTADORA DE SERVIÇOS URBANOS;Fabio Andrade ;Fabio;Diretor;Av. Hermes Fontes, 1324 - Suissa;49020-120;Aracaju;SE
+22;Camel Empreendimentos e Construções;"(79) 3217-4732 ou 
+(79) 3217-3457";CONSTRUTORA;José Anderson Meneses de Melo;José ;Diretor;R. Mato Grosso, 185 - Siqueira Campos;49075-380;Aracaju;SE
+23;Carmo Energy;0800 300 4542;INDUSTRIA DE ENERGIA;Daniel Noleto;Daniel;Diretor;Estrada Vicinal de acesso,Fazenda Oiterinhos,S/N;49740-000;Carmopólis;SE
+24;Carmo Energy RH;;INDUSTRIA DE ENERGIA;Nayanne Salles;Nayanne;Gestão de Pessoas;Estrada Vicinal de acesso,  Fazenda Oiterinhos,S/N;49740-000;Carmopólis;SE
+25;Casa Esportiva;(79) 3512-1632;LOJA;Lisangela;Lisangela;RH;Rua Américo Curvelo, 571 - Grageru;49025-020;Aracaju;SE
+26;Casa Mais Móveis ;(79) 99139-4285;LOJA;Alexandre Santana Aguiar;Alexandre;Sócio - Administrador;Av. José Carlos Silva, 4145 - São Conrado;49042-190;Aracaju;SE
+27;Celi Hotel Aracaju;(79) 2107-8000;HOTEL;Francisco Franco Barreto;Francisco;Sócio - Administrador;Av. Conselheiro João Moreira Filho,500 - Atalaia;49035-655;Aracaju ;SE
+28;Celi Mall Decor  ;(79) 3194-2800;LOJA;Maria Celi Teixeira Barreto;Maria ;Diretora;R. Delmiro Gouvêia, 2990 - Coroa do Meio;49035-500;Aracaju;SE
+29;Cemise - Centro de Medicina Integrada de Sergipe;(79) 3304-1000;CLINICA;Paulo Cunha;Paulo;Diretor Geral;R. Construtor João Alves, 228 - Salgado Filho;49020-365;Aracaju;SE
+30;Cenutri - Clinica Especializada de Nutrição Ltda;(79) 3246-2717;CLINICA;Thaís Gardel;Thaís;Gerente Administrativo Financeiro;R. Ten. Aragão, 615 - Farolândia;49032-060;Aracaju;SE
+31;Ceramica Serra Azul;(79) 3213-1483;INDUSTRIA CERÂMICA;Roberta Fortes;Roberta ;Gerente de RH;R.  Eixo Estrutural C, S/N, Distrito Industrial - Lotes 1 A 5;49160-000; Nossa Senhora do Socorro;SE
+32;Cia da Formula;;FÁRMACIA DE MANUPULAÇÃO;Verônica e Bethânia;;Sócias - Proprietária;Av. Deputado Silvio Teixeira, 1300;49025-040;Aracaju;SE
+33;Cimefix Artefatos de Cimento;(79) 99832-1616;INDÚSTRIA;Lealdo Bomfim de Souza;Lealdo ;Sócio - Administrador;Av. Industrial Sadi Gitz, 800 - Distrito Industrial;49152-360;Nossa Sra. do Socorro;SE
+34;Clinica de Repouso São Marcelo;(79) 3212-4400;CLINICA;Dr. Erhard Maciel;Erhard;CEO;Av. Visc. de Maracaju, 490 - Dom Luciano;49070-070;Aracaju;SE
+35;Clinica Endogastro - Endoscopia, Colonoscopia e Ultrasonografia Aracaju;(79) 3211-9119;CLINICA;Tarcísio Bezerra;Tarcísio ;Diretor;R. Cedro, 213 - São José;49020-170;Aracaju;SE
+36;Clinica São Camilo;(79) 2105-0350;CLINICA;Maísa Mitidieri;Maísa ;Diretora Administrativa;R. Terêncio Sampaio, 53 - Grageru;49025-700;Aracaju;SE
+37;Clinradi - Radiografia e Imagem;(79) 3022-8850;CLINICA;Gilberto Leite;Gilberto;Diretor executivo;Av. Antonio Carlos Leite Franco, 500 - Jardins;49026-240;Aracaju;SE
+38;Cohab Premium Imobiliaria ;(79) 3231-3231;IMOBILIARIA;Jorge Santos;Jorge;Diretor;Av. Jorge Amado, 1199 - Jardins;49025-330 ;Aracaju;SE
+39;Colchões Durmaflex;(79) 99967-8509;INDÚSTRIA DE COLCHÕES;Jose Adilson Almeida de Menezes Filho;Jose;Sócio - Administrador;Av. D, 295 - Distrito Industrial;49152-416;Nossa Sra. do Socorro;SE
+40;Colégio Amadeus;(79) 2105-2000;COLÉGIO;Renir Damasceno ;Renir;Diretor;R. Estancia, 1003 - Cirurgia;49010-180;Aracaju;SE
+41;Colégio CCPA;(79) 99191-5100;COLÉGIO;Genisson Alves;Genisson;Diretor;R. José de Alençar Cardoso Neto, 67 - Grageru;49025-770;Aracaju;SE
+42;Colégio COESI - Colégio de Orientação e Estudos Integrados ;(79) 3212-9800;COLÉGIO;Maria Aparecida Santos Nunes;Aparecida;Diretora;R. Oscár Valois Galvão, 355 - Grageru;49027-220;Aracaju;SE
+43;Colégio Jardins;(79) 3026-8222;COLÉGIO;Venízia ;Venízia ;Diretora Geral ;Av. Ministro Geraldo Barreto Sobral, 1496 - Jardins;49026-010;Aracaju;SE
+44;Colégio Master;(79) 3226-0700;COLÉGIO;Jorge Mitidieri;Jorge;Diretor;R. José Seabra Batista, 106 - Jardins;49025-750;Aracaju;SE
+45;Colégio Módulo;(79) 3512-2512;COLÉGIO;Sérgio Dantas;Sérgio;Diretor;R. dos Cravos, 247 - Inácio Barbosa;49040-140;Aracaju;SE
+46;Colégio Salesiano;(79) 3046-8500;COLÉGIO;Pe. Arlan Braga;Pe. Arlan;Diretor;R. Ten. Wendel Quaranta, 1386 - Suíssa;49052-260;Aracaju;SE
+47;Colégio Salvador;(79) 3301-5250;COLÉGIO;Jamisson Souza;Jamisson;Diretor;Av. Min. Geraldo Barreto Sobral, S/N - Jardins;49026-010;Aracaju;SE
+48;Colégio São Paulo;(79) 3218-3500;COLÉGIO;Carlos Waldemar ;Carlos ;Diretor ;R. Urquiza Leal,872 - Grageru;49025-000;Aracaju;SE
+49;Colégio Uni +;(79) 3021-4069;COLÉGIO;Wilson Torres;Wilson;Diretor;R. Dr. Célso Oliva, 142 - Treze de Julho;49020-090;Aracaju;SE
+50;Colortex Indústria de Tintas e Texturas;(79) 3254-8700;INDÚSTRIA;Nathália Azevedo;Nathália;Diretora ;R. Seis, S/N - Distrito Industrial;49152-364;Nossa Sra. do Socorro;SE
+51;Comercial Gerdau;(79) 3234-8000;LOJA;Fernando Barreto;Fernando;Chefe de Filial;Av. Pres. Tancredo Neves, 6055 - Jabotiana;49095-000;Aracaju;SE
+52;Concrenor Blocos e Piso;(79) 99120-1121;INDÚSTRIA;;;;B, Quadra 15 - Lote 5, Av. Estrutural - Distrito Industrial de Socorro;49160-000;Nossa Sra. do Socorro;SE
+53;"Condibras Industria de Alimentos
+ (Forttuni)";(79) 3256-6388;INDÚSTRIA ALIMENTICIA;Luan Carlos Colloda ;Luan ;Administrador ;R. 11, 133 - Distrito Industrial;49152-396;Nossa Sra. do Socorro;SE
+54;Constat - Home Care;(79) 3211-9900;CLINICA;Izabel Camacho;Izabel;Gerente de RH;R. Campo do Brito, 145 - Treze de Julho;49020-380;Aracaju;SE
+55;Construtora Celi;(79) 3216-5000;CONSTRUTORA;Luciano Barreto;Luciano;Presidente;Av. Gen. Calazans, 862 - Industrial;49065-420;Aracaju;SE
+56;Constren Construções e Engenharia Ltda;(79) 3231-6302;CONSTRUTORA;Carlos Eduardo ;Carlos ;Diretor;R. Dr. Márcio Rollemberg Leite, 763 - Luzia;49045-190;Aracaju;SE
+57;Construtora Shalon & Serviços;;CONSTRUTORA;Paulo Roberto Santos Ferreira;Paulo;Socio-Adiministrador;R.  Panificador Silva, 125, Rosa Elze;49100-000;São Cristovão;SE
+58;Construtora Sonda Engenharia e Construções LTDA;(79) 3217-7558;CONSTRUTORA;João Sonda;João;Diretor;R.  Manoel Romão da Silva, 41 - Ponto Novo;49097-691;Aracaju;SE
+59;Construtora Stanza;"(79) 3251-5001
+ou
+(79) 98153-2252";CONSTRUTORA;Luciano Barreto Neto;Luciano;CEO;Av. Oviêdo Teixeira 697 - Centro;49026-100;Aracaju;SE
+60;Construtora Santa Maria;(79) 99982-3969;CONSTRUTORA;Carlos Orlando;Carlos ;Diretor;Av. José Carlos Silva, 4420 - Inácio Barbosa;49040-850;Aracaju;SE
+61;Construtora Santa Maria;(79) 3249-6200;CONSTRUTORA;Shirley;Shirley;Gestora de RH;Av. José Carlos Silva, 4420 - Inácio Barbosa;49040-850;Aracaju;SE
+62;Construtora União;;CONSTRUTORA;Cecília Prado;Cecília;Gerente de RH;Rua Vereador João Claro, 58 - Dezoito do Forte;49072-750;Aracaju;SE
+63;Coopertalse;(79) 3252-7926;COOPERATIVA DE TRANSPORTES;Luciano Calazans;Luciano;Diretor;Av. Chanceler Osvaldo Aranha, 1566 - Veneza;49085-100;Aracaju;SE
+64;Crown Embalagens Metalica da Amazonia;(79) 3111-2000;INDÚSTRIA DE EMBALAGENS;Djalma Novaes;Djalma;CEO;Rod. Mario Covas,S/N,km 133, sala1;49200-000;Estância;SE
+65;Dakota Calçados S.A;(79) 3611-2035;FABRICA DE CALÇADOS;Fagner Abreu ;Fagner ;Gerente ;R. A, 87;49480-000;Simão Dias;SE
+66;Del Mar Hotel;(79) 2106-9100;HOTEL;José Rodrigues;José;Diretor Administrativo;Av. Santos Dumont, 1500 - Coroa do Meio;49035-730;Aracaju;SE
+67;Delcanto Hotel;(79) 98149-1677;HOTEL;Caroline Araujo ;Caroline ;Supervisora Comercial;R. Alferes José Pedro de Brito, 67 - Farolândia;49032-010;Aracaju;SE
+68;Eco Privillege Hotel;(79) 3142-1727;HOTEL;Kleiber Brandão;Kleiber;CEO;Av. Manoel Juvencio Filho,1000 - Povoado Boca da Barra - Centro;49970-000;Pacatuba;SE
+69;Elétrica Aliança;(79) 3045-3055;INDÚSTRIA;;;;Av. Industrial Carlos Barreto, 1234;49152-368;Nossa Sra. do Socorro;SE
+70;EMA Planejamento e Incorporações Ltda.;(79) 3085-6465;CONSTRUTORA;Jose Alcides Vasconcelos Filho;Jose;Sócio - Administrador;Av. Ministro Geraldo Barreto Sobral, 2100 - Jardins;49027-350;Aracaju;SE
+71;ENERGISA;(79) 99989-4979;INDUSTRIA DE ENERGIA;Ana Paula ;Ana;Gerente de RH;R. Rui Barbosa, 81 - Inácio Barbosa;49040-230;Aracaju;SE
+72;Eneva HUB Sergipe;;USINA ELÉTRICA;Marcelo Lopes;Marcelo;Diretor Executivo de Novos Negócios ;Rodovia Cesar Franco, SE-100, s/n,;49140-000;Barra dos Coqueiros;SE
+73;Escola Babylândia;;ESCOLA;Monique Cabral;Monique;Diretora;R. Francisco Portugal, 415 - Salgado Filho;49020-390;Aracaju;SE
+74;Espaço Ativo Geriatria Integrada;(79) 3022-2100;CLINICA;Eduardo Minomo;Eduardo ;Sócio-Administrador;R. Construtor João Alves, 497 - Salgado Filho;49020-340;Aracaju;SE
+75;Essencial Indústria e Comércio;(79) 3256-8426;INDÚSTRIA TÊXTIL;;;;R. Seis, 399 - Distrito Industrial;49152-364;Nossa Sra. do Socorro;SE
+76;Estre Ambiental;;SERVIÇOS URBANOS;Hamilton Libório ;Hamilton;CEO;Rodovia BR 235 - km 9 - Conjunto Jardim, Nossa Sra. do Socorro;49160-000;Nossa Senhora do Socorro;SE
+77;Fábrica Imperador;(79) 3256-8476;INDÚSTRIA;;;;R. 6, Lotes 4 e 5, N° 299, Q. 14 - Distrito Industrial;49160-000;Nossa Sra. do Socorro;SE
+78;Facar - Faculdade de Aracaju;(79) 3217-7476;FACULDADE;;;;R. Oscar Valois Galvão,355 - Grageru;49027-220;Aracaju;SE
+79;Faculdade AGES;(79) 3635-9033;FACULDADE;José Wilson Santos;José ;Proprietário;Rod. Antônio Martins de Menezes, 270 - Várzea dos Cágados;49400-000;Lagarto;SE
+80;Faculdade de Direito 8 de Julho;(79) 3027-7378;FACULDADE;Milton Arthur Vasconcelos de Andrade Cruz;Milton;Sócio - Administrador;Rua Antonio Andrade, 1190 - Coroa do Meio; 49035-050;Aracaju;SE
+81;Faculdade Fama;(79) 2105-2050;FACULDADE;Eduardo Gonçalves;Eduardo;Diretor;R. Estância, 937 - Centro;49010-450;Aracaju;SE
+82;Faculdade Jardins;(79) 3026-8222;FACULDADE;Bruno Zanni;Bruno ;Diretor Executivo;Av. Ministro Geraldo Barreto Sobral, 1496 - Jardins;49026-010;Aracaju;SE
+83;Faculdade Pio Décimo;(79) 3234-8400;FACULDADE;Thiers Almeida ;Thiers ;Diretor;Av. Pres. Tancredo Neves, 5655 - Jabotiana;49095-000;Aracaju;SE
+84;Faculdade UNIFACS   ;(79) 98865-8099;FACULDADE;Mauricio Pereira Dos Santos;Mauricio ;CEO;Av. Padre Nestor Sampaio, 140 - Luzia;49045-015;Aracaju;SE
+85;Fanese - Faculdade de Administração e Negócios de Sergipe;(79) 3142-0970;FACULDADE;Alberto Almeida;Alberto;Diretor;Travessa Srg. Duque, 85 - Industrial;49065-750;Aracaju;SE
+86;Farma ;(79) 3025-9999;DISTRIBUIDORA DE MEDICAMENTOS;;;;Av. Perimetral A, 695;49160-001;Nossa Sra. do Socorro;SE
+87;Farmácia Edson;(79) 3215-6565;FARMACIA;Edson Rabelo;Edson;Proprietário;Av. Visc. de Maracaju, 120 - Santo Antônio;49072-300;Aracaju;SE
+88;Farmácia GBarbosa;;FARMACIA;;;;;;;SE
+89;Farmácia Souza;;FARMACIA;Marcelo Silveira;Marcelo;Gerente Geral;R. Laranjeiras, 209 - Centro;49010-000;Aracaju;SE
+90;Fasouto;(79) 99972-1017;DISTRIBUIDORA;Juliano Cesar Faria Souto;Juliano;CEO;Av. Simeão Sobral, 440 - Industrial;49065-770;Aracaju;SE
+91;Fazenda Boa Luz Hotel Aracaju;(79) 3281-4848;HOTEL;Davi Barreto;Davi;Sócio - Administrador;Rod. BR 235, km16, S/N - Zona Rural;49170-000;Laranjeiras;SE
+92;Ferrocorte Industrial;(79) 3254-8147;DISTRIBUIDOR DE AÇO;;;;Av. D, S/N - Distrito Industrial;49152-416;Nossa Sra. do Socorro;SE
+93;FFB Participações e Construções Ltda.;;CONSTRUTORA;Francisco Barreto;Francisco;Diretor;Av. Conselheiro João Moreira Filho, 635 - 1º andar - Atalaia;49035-005;Aracaju;SE
+94;Fiação Itabaiana;;INDUSTRIA TEXTIL; José Aldo Teixeira;José;Presidente;R. Dr. Célso Oliva, 340 - Treze de Julho;49020-090;Aracaju;SE
+95;Fiação Itabaiana;(79) 99678-6574;INDUSTRIA TEXTIL;Jonathan ;Jonathan;Gerente;R. Dr. Célso Oliva, 340 - Treze de Julho;49020-090;Aracaju;SE
+97;Formula Exata;(79) 3022-0842;FARMACIA;Priscila Santana;Priscila;Sócia - Administradora;Av. Barão de Maruim, 930 - Centro;49010-340;Aracaju;SE
+98;Frutal Nordeste;;INDUSTRIA ALIMENTICIA;Gabriel Andrade Leite;Gabriel;Diretor Geral;Lote 16 C Área Rural;49980-000;Neópolis;SE
+99;Fruteb;;INDUSTRIA ALIMENTICIA;Bosco França;Bosco;Presidente;BR-101, s/n - Zona Rural;49100-000;São Cristóvão;SE
+100;Fruteb;(71) 98145-1786;INDUSTRIA ALIMENTICIA;Jacson Rodrigues;Jacson;Controller;BR-101, s/n - Zona Rural;49100-000;São Cristóvão;SE
+101;Gallotti Empreendimentos e Serviços;(79) 3211-9778;LOCADORA DE SERVIÇOS;Karine Rabelo ;Karine;Gerente de RH;Av. Dr. Edelzio Vieira de Melo, 954 - Suíssa;49052-240;Aracaju;SE
+102;Go Inn Aracaju;(79) 3026-8320;HOTEL;Jessé Resende;Jessé ;Diretor;R. Alferes José Pedro de Brito, 50 - Farolândia;49032-010;Aracaju;SE
+103;Gosto da Fruta;"(79) 99139-0221
+(79) 99139-0214
+(79) 99107-0431";INDÚSTRIA ALIMENTICIA;;;;Av. Industrial Sadi Gitz, S/N - Distrito Industrial;49152-360;Nossa Sra. do Socorro;SE
+104;Grupo de Investidores ACON;;GRUPO EMPRESARIAL;;;;;;;SE
+105;Grupo Miro Santos;(79) 99978-2008;GRUPO EMPRESARIAL;Sandro de Miro;Sandro;CEO;R.  Irmã Dulce, 456 - Olaria;49092-110;Aracaju;SE
+106;Grupo Tiradentes;(92) 98129-9452;FACULDADE;Alessandra de Faria;Alessandra;Diretora de RH;Av. Murilo Dantas, 300 - Farolândia;49032-490;Aracaju;SE
+107;Grupo Tiradentes;(79) 98134-1601;FACULDADE;Uchoa Jr.;Uchoa;CEO;Av. Murilo Dantas, 300 - Farolândia;49032-490;Aracaju;SE
+108;Habitacional Construções;(79) 3212-9011;CONSTRUTORA;João Alves Neto;João;Diretor Presidente;R. Cláudio Batista, 334 - Santo Antônio;49060-100;Aracaju;SE
+109;Heca Construtora Ltda;(79) 3251-9900;CONSTRUTORA;Alexandre Oliveira Ribeiro Prado;Alexandre;Sócio - Diretor;R. Filemon Franco Freire,270  - Ponto Novo;49047-180;Aracaju;SE
+110;Help;;INSTITUIÇÃO FINANCEIRA;;;;;;;SE
+111;Home Center Ferreira Costa Aracaju;(79) 98137-3384;LOJA;Jamile;Jamile;Gerente de RH;Av. Pres. Tancredo Neves, 2695 - Inácio Barbosa;49040-490;Aracaju;SE
+112;Hospital Cirurgia;(79) 2106-7312;HOSPITAL;Hilton Morais ;Hilton ;Diretor Técnico;Av. Desembargador Maynard, 174 - Cirurgia;49055-000;Aracaju;SE
+113;Hospital da Criança;(79) 3226-6300;HOSPITAL;Catharina Corrêa Costa ;Catharina ;Superintendente ;R. Recife,310 - José Conrado de Araújo;49085-310;Aracaju;SE
+114;Hospital de Olhos;(79) 3212-0800;HOSPITAL;Fábio Ursulino;Fábio;Diretor Técnico;R. Campo do Brito, 995 - São José;49020-380;Aracaju;SE
+115;Hospital Deco´s;(79) 3025-8300;HOSPITAL;Gleisiele Alves;Gleisiele;Gerente de RH;Av. Mario Jorge Menezes Vieira, 2477 - Coroa do Meio;49035-100;Aracaju;SE
+116;Hospital Deco´s;(79) 3025-8300;HOSPITAL;Uchoa Junior;Uchoa;Presidente;Av. Mario Jorge Menezes Vieira, 2477 - Coroa do Meio;49035-100;Aracaju;SE
+117;Hospital do Coração  ;(79) 2106-5500;HOSPITAL;Marcos Rocha ;Marcos;Diretor ;R. Campos, 75 - São José;49015-220;Aracaju;SE
+118;Hospital do Rim;(79) 99198-2401;HOSPITAL;Maria do Carmo; Carminha;Sócia-Administradora;R. Arauá, 02 - 41 - Centro;49010-330;Aracaju;SE
+119;Hospital e Maternidade Santa Helena ;(79) 3216-1400;HOSPITAL;Ytana Pereira ;Ytana;Gerente de RH;R. Frei Paulo, 331 - Suissa;49060-640;Aracaju;SE
+120;Hospital e Maternidade Santa Isabel;(79) 3212-4900;HOSPITAL;Rubens dos Anjos Moreira;Rubens ;Diretor Presidente; Av. Simeão Sobral, S/N - Santo Antônio;49060-640;Aracaju;SE
+121;Hospital e Maternidade Sempre Viva;(79) 3022-9600;HOSPITAL;Maria Stela Melo Santos Taqueda;Maria ;Sócia - Administradora;R. Dr. José Calumby, 280 - Suíssa;49050-020;Aracaju;SE
+122;Hospital Gabriel Soares;(79) 3205-6217;HOSPITAL;Paula Mendonça;Paula;Diretora Geral;R.  Itabaiana, 690 - Centro;49015-110;Aracaju;SE
+123;Hospital IOCM;(79) 3213-0381;HOSPITAL;Cristiano Mendonça;Cristiano;Diretor;R.  Itabaiana,758 - Centro;49015-160;Aracaju;SE
+124;Hospital Ocular;(79) 2105-3000;HOSPITAL;César Faro;Cesar;Diretor;R. Riachuelo, 873 - São José;49015-160;Aracaju;SE
+125;Hospital Primavera;(79) 2105-2600;HOSPITAL;Wagner Bravo Oliveira;Wagner;Presidente;Av. Ministro Geraldo Barreto Sobral, 2277 - Jardins;49026-010;Aracaju;SE
+126;Hospital Primavera RH;(79) 2105-2600;HOSPITAL;Raquel Rodrigues;Raquel ;Gerente de Gente e Gestão;Av. Ministro Geraldo Barreto Sobral, 2277 - Jardins;49026-010;Aracaju;SE
+127;Hospital Renascença;(79) 2107-6400;HOSPITAL;Roseane Torres Sanros;Roseane;Gerente de RH;Av. Gonçalo Rolemberg Leite, 1490 - Salgado Filho;49050-370;Aracaju;SE
+128;Hospital Renascença;(79) 2107-6400;HOSPITAL;Gustavo Guimarães;Gustavo;Presidente;Av. Gonçalo Rolemberg Leite, 1490 - Salgado Filho;49050-370;Aracaju;SE
+129;Hospital São Domingos Sávio;;HOSPITAL;;;;R. Senador Rollemberg, 503 - São José;49015-120;Aracaju;SE
+130;Hospital São José;(79) 2105-1000;HOSPITAL;Vânia Maria ;Vânia ;Diretora-presidente ;Av. João Ribeiro,846 - Santo Antônio;49060-000;Aracaju;SE
+131;Hospital São Lucas;(79) 2107-1000;HOSPITAL;Paulo Azevedo Barreto;Paulo;CEO;R. Cel. Stanley da Silveira, S/N - São José;49015-400;Aracaju;SE
+132;Hospital Unimed-SE;(79) 2106-4848;HOSPITAL;Maria Nilma Menezes ;Nilma;Gerente Administrativo;Av. Gonçalo Prado Rolemberg, 1000 - São José;49015-300;Aracaju;SE
+133;Hotel Atalaia;;;;;;;;;SE
+134;Hotel da Costa by Nobile;(79) 2106-1400;HOTEL;Tereza Sobral ;Tereza ;Gerente de Vendas ;Av. Santos Dumont,1807 - Atalaia;49035-785;Aracaju;SE
+135;Hotel Ibis Aracaju;(79) 2106-2000;HOTEL;Grace Silva ;Grace;Gerente ;Av. Adélia Franco,2719 - Grageru;49027-010;Aracaju;SE
+136;Hotel Ibis Budget Aracaju;(79) 3712-8700;HOTEL;Elisa Rodrigues ;Elisa;Gerente ;Av. Conselheiro João Moreira Filho,635 - Atalaia;49035-005;Aracaju;SE
+137;Icase - Instituto de Cardiologia de Sergipe Ltda.;(79) 3214-5454;CLINICA;Hugo Amaral;Hugo;Diretor Executivo;R. Riachuelo, 965 B - São José;49015-160;Aracaju;SE
+138;Imperial Brasil Indústria e Comércio Ltda;;INDUSTRIA ALIMENTICIA;Rodrigo Hora;Rodrigo;Diretor;Av. Santo Antônio, 207A - São Gonçalo;49100-000;São Cristovão;SE
+139;Indaiá Fonte São Cristovão;(79) 3261-9302;INDUSTRIA ALIMENTICIA;Roberto Andrade;Roberto;Sócio - Administrador;"Rod.  Br 101, Km 111, S/N - Fazenda Itaperoa - Povoado Rita Cacete
+";49100-000 ;São Cristovão;SE
+140;Indústria Camil Alimentos;(79) 3280-7000;INDUSTRIA ALIMENTICIA;Carolina Miranda Barbosa;Carolina;Coordenadora de RH;Rod.  Br 101, km 118, S/N - Distrito Ind. R. Manoel Condé Sobral;49120-000;Itaporanga d'Ajuda;SE
+141;Industria Damare Laticínios;"(27) 3754-2195 ou
+(27) 99291-4903";INDUSTRIA ALIMENTICIA;Cláudio Rezende;Cláudio;Diretor Presidente;Rod. BR 101, Mário Covas, S/N - Km 27 - Zona Rural;49780-000;Muribeca;SE
+142;GUF Indústria Química e Farmacêutica ;;INDUSTRIA FARMACEUTICA;Candida Maria Campos;Candida ;Diretora ;Avenida Constancio Vieira S/N;49200-000;Estância;SE
+143;Indústria Heringer;(79) 3274-2800;FERTILIZANTES;Jose Lucas Rodrigues;Jose ;Gerente de RH;Rod. BR 101 KM 66,5, Zona Rural - Fazenda Jacuruna Lote Iii, S/N, ;49760-000;Rosário do Catete;SE
+144;Indústria Leite de Rosas;(79) 2106-9000;INDUSTRIA COSMETICA;"
+Mauro Ribas
+";Mauro;CEO;R. Weslei Marcelo Santos, 92 - Palestina;49160-000;Nossa Sra. do Socorro;SE
+145;Indústria Leve Agua Mineral;(79) 3226-1600;INDUSTRIA ALIMENTICIA;Mariana Carvalho;Mariana;CEO;ROD BR 101, KM 02 - ACESSO AO POV. RITA CACETE - ZONA RURAL - POVOADO RITA CECETE;49100-000;São Cristovao;SE
+146;Indústria Oriental;(79) 3205-2500;INDUSTRIA PROD LIMPEZA;Marco Diniz;Marco;Diretor ;Av.  Auxiliar I , 1150 - Conj. Padre Pedro - Santa Maria;49044-000;Aracaju;SE
+147;Indústrias Alimentícias Maratá - Moinho ;(79) 3264-2800;INDUSTRIA ALIMENTICIA;José Augusto Vieira;José Augusto;Presidente;Rod.  BR 101, Km 101,S/N - Lote de 01 a 05 - QUADRA 1;;São Cristovão;SE
+148;Instituto Dom Fernando Gomes;;ESCOLA;;;;Praça Dom José Tomaz, s/n - Siqueira Campos;49075-010;Aracaju;SE
+149;Jessé;(79) 99879-2269;LOJA;José Ricardo da Silva Monteiro;Ricardo;Sócio - Administrador;Avenida Pedro Paes de Azevedo,225, Salgado Filho;49020-450;Aracaju;SE
+150;Jotanunes Construtora ;(79) 2105-5800;CONSTRUTORA;Priscilla Schuster ;Priscilla;Coordenadora de RH;Av. Maranhão, 940 - Dezoito do Forte;49072-000;Aracaju;SE
+151;Kalunga;;LOJA;;;;;;;SE
+152;Kalykim;(79) 99939-3006;INDÚSTRIA QUÍMICA;;;;Av. Industrial Sadi Gitz, S/N - Distrito Industrial;49152-360;Nossa Sra. do Socorro;SE
+153;Knauf;;;;;;;;;SE
+154;Laredo Urbanizadora;(79) 99869-9007;CONSTRUTORA;Paulo Machado;Paulo;Sócio-Administrador;R.  Antonio Andrade, 489 - Coroa do Meio;49035-050;Aracaju;SE
+155;Lemos Passos Alimentos;;;;;;;;;SE
+156;Lojas Imperador ;;LOJA;Orlando Alves Campos Junior ;Orlando;Sócio - Administrador;R. João Pessoa, 473 - Centro;49010-110;Aracaju;SE
+157;Lutchi Cafés;(79) 99935-9478;INDÚSTRIA ALIMENTICIA;Antônio Mendonça Souza ;Antônio ;Administrador; R. Projetada B, 189 - Distrito Industrial;49160-000;Nossa Sra. do Socorro;SE
+158;Maison Cherry;(79) 3255-0928;LOJA;Maria Auxiliadora Melo;Auxiliadora;Proprietária;Av. Mario Jorge Menezes Viêira, 3208 - Coroa do Meio;49035-660;Aracaju;SE
+159;Makai Resort Aracaju;(79) 3262-9100;HOTEL;Naiara Freitas Santos Cardoso Doria;Naiara;Diretora de Operações;Sítio Tingui S/N,  Ilha de Santa Luzia;49140-000;Barra dos Coqueiros;SE
+160;Massa Pronta Engenharia Indústria e Comércio;(79) 3254-1313;INDÚSTRIA;Luiz Durval Tavares;Luiz ;Sócio-Administrador;Av. Industrial Sadi Gitz, S/N - Distrito Industrial;49152-360;Nossa Sra. do Socorro;SE
+161;Maxx Papel;(79) 3256-8240;INDÚSTRIA;Vânia Melo ;Vânia ;Sócia-Administradora;R. 7, 371 - Distrito Industrial;49152-372;Nossa Sra. do Socorro;SE
+162;Megga Atacadista;(79) 3026-9955;SUPERMERCADO;Michel Sobral;Michel;Diretor ;Tv. Pedro Garcia Moreno Neto, 25 - Grageru;49041-146;Aracaju;SE
+163;Mila Indústria e Comércio LTDA;(79) 3254-1244;INDÚSTRIA;Aloisio de Abreu Lima ;Aloisio;Sócio;Av. Industrial Carlos Barreto, S/N - Distrito Industrial;49152-368;Nossa Sra. do Socorro;SE
+164;Mosaic Fertilizantes;(79) 3274-6123;INDUSTRIAL DE FERTILIZANTES;Paulo Feitosa e Giselle Sobral;Paulo;RH;Rodovia SE 206, KM 0, Campo de Santa Bárbara; 49760-000;Rosário do Catete;SE
+165;MRV Engenharia;0800-728 9000;CONSTRUTORA;Junia Maria de Sousa Lima Galvão;Junia;Diretora; AV. Francisco Porto, 45 - Jardins;49025-245;Aracaju;SE
+166;Multserv;(79) 99926-3005;SERVIÇOS;William Alves;William ;CEO;R. Frei Paulo, 191 - São José;49015-260;Aracaju;SE
+167;BaneseCard;(79) 98126-1377;INSTITUIÇÃO FINANCEIRA;Thiago Bahia;Thiago;CEO;R. Gutemberg Chagas, 222 - Inácio Barbosa;49040-780;Aracaju;SE
+168;Nação Arqui;(79) 3026-9400;COLÉGIO;Jorge Mitidieri;Jorge;Diretor;R. Ten. Antônio Fontes Pitanga, 146 - Farolândia;49032-360;Aracaju;SE
+169;Nassal Construtora;(79) 3259-1507;CONSTRUTORA;Irlan Herculano;Irlan;Diretor;R.  Acre, 2116 - America;49080010;Aracaju;SE
+170;Natville Laticinios Santa Maria;(79) 99182-0070;INDUSTRIA ALIMENTICIA;Flavio José Dantas;Flavio;Diretor Geral;R.  Alzira Souza Dantas;49680-000;Nossa Sra. da Gloria;SE
+171;NB Empreendimentos;;IMOBILIARIA;Durval Tavares;Durval;Diretor;Av. Dr. José Machado de Souza, 120;49025-740;Aracaju;SE
+172;Nível Superior;(79)98818-5224;EMP FORMATURA;Gustavo Paixao;Gustavo;Diretor;R. José Carvalho Pinto, 561, Espaço Garcia- Loja 01 - Jardins;49020-090;Aracaju;SE
+173;Pagueon; (79) 3246-1141;INSTITUIÇÃO FINANCEIRA;Márcio Andrade;Márcio;CEO;Av. Francisco Porto, 978 - Salgado Filho;49020-570;Aracaju;SE
+174;Peixoto Gonçalves Industria e Comércio;;SUPERMERCADO;André Araújo;André;Gerente de RH;VILLAGE OPERARIA DA PASSAGEM 0;49980-000;Neópolis;SE
+175;Peixoto Gonçalves Industria e Comércio;;SUPERMERCADO;Bruno Peixoto Dalles;Bruno;Sócio - Administrador;VILLAGE OPERARIA DA PASSAGEM 0;49980-000;Neópolis;SE
+176;Pepsico;(79) 98138-4217;DISTRIBUIDORA ;Katia Andrade;Katia ;Gerente de Vendas ;R. Fernando Xavier de Oliveira, 205 - Inácio Barbosa;49040-706;Aracaju;SE
+177;Petrolab;(79) 3114-3114;INDÚSTRIA;Carlos Augusto Correia;Carlos ;Sócio-Administrador; R. 6, Lotes 4 e 5, N° 299, Q. 14 - Distrito Industrial;49160-000;Nossa Sra. do Socorro;SE
+178;Petrox;;POSTO DE COMBUSTIVEL;Alvaro Fonseca de Oliveira Neto;Alvaro;Presidente;Rod Br 235 - km 04 - s/n - Sobrado;49160-000; Nossa Senhora do Socorro;SE
+179;Phoenix Distribuidora de Medicamentos;(79) 3631-2090;DISTRIBUIDORA;Renata Deda de Araujo;Renata ;Sócia - Administradora;R. Profa. Enedina Chagas Silva, 889;49480-000 ;Simão Dias;SE
+180;Physis Medicina Personalizada;(79) 9891-1306;CLINICA;Ana Raquel ;Ana ;Administradora ;R. Lagarto, 2218 - Salgado Filho;49020-290;Aracaju;SE
+181;Pingo Cosméticos Indústria e Comércio LTDA;;INDÚSTRIA;;;;Av. Francisco Ivens de Sá Dias Branco, s/n - quadra M - lote 01 a 023 - Distrito Industrial;49160-000;Nossa Sra. do Socorro;SE
+182;Pisolar;;MATERIAL DE CONSTRUÇÃO;Alfredo Leão Mendonça Neto;Alfredo Leão;Diretor;Av. Pres. Tancredo Neves, 140 - Jardins;49025-620;Aracaju;SE
+183;Pisolar;(79) 99134-4103;MATERIAL DE CONSTRUÇÃO;ANA;ANA;Secretária;Av. Pres. Tancredo Neves, 140 - Jardins;49025-620;Aracaju;SE
+184;Plamed;(79) 4009-3100;PLANOS DE SAUDE;Geter de Oliveira Junior;Geter;Diretor Financeiro;Av. Francisco Porto, 686 - Salgado Filho;49029-570;Aracaju;SE
+185;Pomar Polpa de Frutas;(79) 3249-5550;INDUSTRIA ALIMENTICIA;Glicia de Carvalho Aragão;Glicia;CEO;Travessa das Margaridas, 142 Distrito Industrial de Aracaju, Inácio Barbosa;49041-163;Aracaju;SE
+186;Pomar Polpa de Frutas;(79) 99958-0255;INDUSTRIA ALIMENTICIA;Rodrigo ;Rodrigo;Diretor Financeiro;Travessa das Margaridas, 142 Distrito Industrial de Aracaju, Inácio Barbosa;49041-163;Aracaju;SE
+187;Ponto do Aço;(79) 3259-2183;LOJA MATERIAL DE CONSTRUÇÃO;André Macedo;André;Gerente de RH;R. Acre, 2723 - Ponto Novo;49097-010;Aracaju;SE
+188;Pousada Prive Rio Belo ;"(79) 99902-0005 OU 
+(79) 99972-3925";HOTEL;Mariana Freitas;Mariana;Proprietária;Rod. SE 120 - Povoado Betume, S/N;49980-000;Neópolis;SE
+189;Pre-Moldados Barbosa;"(79) 3212-6162
+(79) 99134-8450";INDÚSTRIA;;;;;;;SE
+190;Primasa Engenharia;(79) 3217-8696;CONSTRUTORA;Sérgio Smith Júnior;Sérgio ;Diretor;R. Capitao Tenente Edivaldo Lima Santos, 359 - Coroa do Meio;49035-780;Aracaju;SE
+191;Prosegur;;SEGURANÇA;David Fernandes Granado;David ;Diretor Geral;Av. Hermes Fontes, 1675 - Grageru;49020-550;Aracaju;SE
+192;Quality Hotel Aracaju;(79) 3024-9650;HOTEL;André Lucas Matos;André;Gerente Geral;R. Delmiro Gouveia, 100 - Coroa do Meio;49035-810;Aracaju;SE
+193;Radio Jovem Pan ;(79) 99978-2833;TELECOMUNICAÇÃO;Murilo Lima;Murilo;Gerente Comercial;R. Cláudio Batista, 18 - Santo Antônio;49060-100;Aracaju;SE
+194;Ravello Pisos e Revestimentos;(79) 3256-8258;INDÚSTRIA CERÂMICA;;;;Rua 01, SNR, Quadra 01 - Lote 02, Distrito Industrial de Socorro ;49160-000;Nossa Sra. do Socorro;SE
+195;Regina Delicatessen;(79) 3217-6148;SUPERMERCADO;Sonia de Souza Dantas;Sonia ;Sócia-Administradora;Av. Padre Nestor Sampaio, 50 - Luzia;49045-015;Aracaju;SE
+196;Rocha Atacado;;DISTRIBUIDORA DE ALIMENTOS;;;;R. Salgado, 112 - Getúlio Vargas;49055-610;Aracaju;SE
+197;Samam;(79) 99955-0958;CONCESSIONÁRIA;Sandra Meneses;Sandra;Gerente;Av. Barão de Maruim, 49 - São José;49015-040,;Aracaju;SE
+198;Samam;;GRUPO EMPRESARIAL;Henrique Menezes;Henrique;Presidente;Av. Barão de Maruim, 49 - São José;49015-040,;Aracaju;SE
+199;San Giovanni Oncologia;(79) 98834-8888;CLINICA;Felippe Evangelista;Felippe;Sócio - Diretor;Praça Tobias Barreto, 156 - São José;49015-130;Aracaju;SE
+200;Sandrin Praia Hotel;(79) 3216-9600;HOTEL;;;;R. Jornalista Paulo Costa,15 - Atalaia;49037-550;Aracaju;SE
+201;Santa Cecilia Agua Mineral ;;INDUSTRIA ALIMENTICIA;Celia Regina Fonseca Dantas;Celia ;Sócia - Administradora;Fazenda novo arizona - zona rural;49100-000;São Cristóvão;SE
+202;São Cristovão Agua Mineral;;INDUSTRIA ALIMENTICIA;;;;;;;SE
+203;Sarandi Alimentos SE - Motrisa;(79) 2106-5656;INDUSTRIA ALIMENTICIA;Lidiane Liu;Lidiane;Gerente de RH;R. Mário Matiotti, 312 - Industrial; 49065-415;Aracaju;SE
+204;Sarandi Alimentos SE - Motrisa;(79) 2106-5656;INDUSTRIA ALIMENTICIA;Eleoester;Eleoester;CEO;R. Mário Matiotti, 312 - Industrial; 49065-415;Aracaju;SE
+205;Schlumberger;;INDUSTRIA PETROLIFERA;Felipe Zamorano;Felipe ;Base Manager;BR-235, 23;49160-000;Nossa Sra. do Socorro;SE
+206;Senge Engenharia;(79) 3254-1011;INDÚSTRIA;;;;R. 7, 371 - Distrito Industrial;;;SE
+207;Sercol Saneamento e Construções;(79) 3301-5555;CONSTRUTORA;Romeu Medeiros Barbosa ;Romeu;Sócio-Administrador;R. Sônia Alves Lopes, 2772 - Coroa do Meio;49035-740;Aracaju;SE
+208;Sergifil;;INDUSTRIA TEXTIL;Tania Carvalho Fabri;Tania;Coordenador de RH;Av. Vasco da Gama, 200 - Terra Dura;49037-000;Aracaju;SE
+209;Sergyene;(79) 2106-2222;INDUSTRIA ;Josy Borges;Josy;Analista de DP;Av.  Empresário, Av. José Carlos Silva, 4560 - Inácio Barbosa;49040-850;Aracaju;SE
+210;Serigy Madeiras;(79) 3212-9500;MADEIREIRA;Roberto Campos;Roberto;Sócio - Administrador;Av. Coelho e Campos, 544- Santo Antônio;49060-000;Aracaju;SE
+211;Serveloja;;INSTITUIÇÃO FINANCEIRA;;;;R. José do Prado Franco, 320 - sala 720 - Edifício Cidade - Centro;49010-911;Aracaju;SE
+212;Sescoop/SE - Casa do Cooperativismos;(79) 3259-643;COOPERATIVA;;;;Av. Augusto Maynard, 247 - São José;49015-380;Aracaju;SE
+213;Shopping Jardins;(79) 2107-5555;SHOPPING;;;;Av. Ministro Geraldo Barreto Sobral, 215 - Jardins;49026-900;Aracaju;SE
+214;Shopping Rio Mar;(79) 2104-9750;SHOPPING;;;;Av. Delmiro Gouveia, 400 - Coroa do Meio;49035-500;Aracaju;SE
+215;Sindicato da Industria da Construção Civil de Sergipe - Sinduscon;(79) 3215-5353;SINDICATO;Ubirajara Madureira Rabelo;Ubirajara;Presidente;Praça Siqueira de Menezes, 299;49060-650;Aracaju;SE
+216;Sindicato do Comércio Atacadista do Estado de Sergipe - Sincadise;(79) 3214 2025;SINDICATO;Breno França;Breno;Presidente;Av. Rio Branco, 186 - Centro;49010-030;Aracaju;SE
+217;Sindicato dos Empregados do Comércio de Aracaju - Seca;(79) 3214-0906;SINDICATO;Luan de Oliveira Almeida,;Luan;Presidente;Av. Dr. Carlos Firpo, 284 - Centro;49010-250;Aracaju;SE
+218;Sindicato dos Servidores Publicos Municipais de Aracaju - Sepuma;(79) 3211-3146;SINDICATO;Nivaldo Fernando dos Santos,;Nivaldo;Presidente;Praça Camerino - São José;49010-240;Aracaju;SE
+219;Slim Colchões;;INDÚSTRIA DE COLCHÕES;;;;Av. D, 205 - Distrito Industrial;49152-416;Nossa Sra. do Socorro;SE
+220;SMTT;;;;;;;;;SE
+221;Solar Coca-Cola;(79) 2106-4600;DISTRIBUIDORA;Emiliana Albanaz ;Emiliana;Diretora de RH;R. Manoel de Oliveira Martins, 196 - Inácio Barbosa;49040-830;Aracaju;SE
+222;Solim;(79) 99145-3300;LABORATÓRIO;Ádamo Lima;Ádamo;CEO;R. Lagarto, 2020 - São José;49015-270;Aracaju;SE
+223;Solistica;11 9-4466-2380;SERVIÇO DE LOGISTICA;Renato Gomes;Renato ;Gerente regional SE/AL;;;;SE
+224;Somed Distribuidora ;(79) 3021-0765;DISTRIBUIDORA;Flavia Cavalcante Sobral;Flavia;Diretora Executiva;R.  Deputado Matos Teles, Conj. Medici II, 271 - Luzia;49048-070  ;Aracaju;SE
+225;Sorvetes Gellito's;(79) 3253-7520;INDÚSTRIA;;;;Av. Industrial Carlos Barreto, S/N - Distrito Industrial;49152-368;Nossa Sra. do Socorro;SE
+226;SPR Engenharia;(79) 3247-3122;CONSTRUTORA;;;;Rua Major João Teles ,95 - Jabotiana;49095-230;Aracaju;SE
+227;Supermercado Assai Atacadista;(79) 3209-8000;SUPERMERCADO;Denise Ramos;Denise;Gestora de RH;R. Simeão Aguiar, 430 - Novo Paraíso;49085-410;Aracaju;SE
+228;Supermercado Atacadão;(79) 3212-4024;SUPERMERCADO;Janine Nirelle Gomes Dos Santos;Janine ;Gestora de RH;Av. Pres. Tancredo Neves, 3550 - Ponto Novo;49025-620;Aracaju;SE
+229;Supermercado GBarbosa - Cencosud;;SUPERMERCADO;;;;BR-235, 1158; 49160-000;Nossa Senhora do Socorro;SE
+230;Supermercado J Peixoto; (79) 3013-2030;SUPERMERCADO;Júnior Peixoto;Júnior;Diretor;Av. Manoel Pedro dos Santos Neto - São Brás ;49156-571;Nossa Senhora do Socorro;SE
+231;Supermercado Massimo ;(79) 9 9684-0612;SUPERMERCADO;Manuela Souza;Manuela;Gestora de RH;Av. Oviêdo Teixeira,697 - Jardins;;Aracaju;SE
+232;Supermercado Massimo ;(79) 3142-0341;SUPERMERCADO;Wagner Oliveira;Wagner;Diretor;Av. Josino José de Almeida, 1059 - Farolândia;49030-250;Aracaju;SE
+233;Supermercado Messias Peixoto;(79) 3431-1027;SUPERMERCADO;Messias Peixoto;Messias;CEO;Largo José do Prado Franco, 62 - Centro;49500-124;Itabaiana;SE
+234;Supermercado Regina;;SUPERMERCADO;;;;;;;SE
+235;Torre Empreendimentos Rural E Construção Ltda;(79) 3231-0172;SERVIÇOS URBANOS;Paulo Deda;Paulo;Diretor Tecnico;R. João Ávila Neto, 195 - Inácio Barbosa;49041-120;Aracaju;SE
+236;Transmetais;(79) 98853-6650;INDÚSTRIA;;;;Av. Industrial Sadi Gitz, 700 - Distrito Industrial;49152-360;Nossa Sra. do Socorro;SE
+237;Tropfruit Nordeste S/A;(79) 3522-2004;INDUSTRIA ALIMENTICIA;Fátima Goes;Fátima;Analista de RH;Rod. Gov. Mário Covas;49200-000;Estância;SE
+238;TV Atalaia;(79) 3226-2618;TELECOMUNICAÇÃO;Roberto Batista;Roberto;Gerente de RH;R. Cláudio Batista, 122 - Santo Antônio;49060-102;Aracaju;SE
+239;TV Sergipe;(79) 3045-4444;TELECOMUNICAÇÃO;Carolina Franco;Carolina;Diretora;R. Alto da Tv - Dom Luciano; 49070-020;Aracaju;SE
+240;TWF Logística e Transporte;(79) 3085-6777;LOGÍSTICA;;;;R. 7, 314 - Distrito Industrial;49152-372;Nossa Sra. do Socorro;SE
+241;Ultragaz  ;(79) 3252-9200;DISTRIBUIDORA;Mariana;Mariana;Gerente;R.  Milton Magalhães, S/N - Ponto Novo;49097-566;Aracaju;SE
+242;União Engenharia;(79) 3142-0497;CONSTRUTORA;Julio Cesar Silveira;Julio;Diretor Presidente;R. Vereador João Claro,58 - Dezoito do Forte;49072-750;Aracaju;SE
+243;Usina Pinheiro;;INDUSTRIA ALIMENTICIA;Ana Claudia;Ana Claudia;Gestora de RH;Povoado Pinheiros, s/n Zona Rural;49170-000;Laranjeiras;SE
+244;Valor Imobiliaria;;IMOBILIARIA;Aroldo Franca;Aroldo;Diretor Presidente ;Av. Augusto Maynard, 163 - São José;49015-380;Aracaju;SE
+245;Viação Atalaia;;EMP TRANSPORTE;Alberto Almeida;Alberto;Diretor;R. Roberto Morais, 91 - Santos Dumont;49072-620;Aracaju;SE
+246;Viação Modelo;;EMP TRANSPORTE;Adriana Silva Pereira;Adriana;Gerente de RH;Av. Tancredo Campos, 836 - Porto D'antas;49065-708;Aracaju;SE
+247;Vida Assistência Saúde;;PLANOS DE SAUDE;Ananias Reis Neto;Ananias;Diretor;Av. Des. Maynard, 297 - Suíssa;49052-210;Aracaju;SE
+248;Vidam Hotel Aracaju;(79) 3304-0700;HOTEL;José Wilson dos Santos;Wilson;CEO;R. Dr. Bezerra de Menezes,40 - Atalaia;49035-240;Aracaju;SE
+249;Visolab;(79) 2104-6500;INDÚSTRIA ÓTICA;Karla Prado;Karla;Gestora de RH;R. Maruim, 600 - Centro;49010-160;Aracaju ;SE
+250;Vitória Transportes;;EMP TRANSPORTE;Bruno Andrade;Bruno;Analista de RH;R. José Amilcar Azevedo, 133 Loteamento Rosa Maria - Rosa Elze;49100-000;São Cristóvão;SE
+251;Viva Construções e Incorporações;(79) 3013-8888;CONSTRUTORA;Kelly Campos;Kelly;Diretora;R. Ulisses Maynard, 96 - Suissa;49050-730;Aracaju;SE
+252;Viva Construções e Incorporações;(79) 3013-8888;CONSTRUTORA;Aldecy Mecenas;Aldecy;Gerente RH;R. Ulisses Maynard, 96 - Suissa;49050-730;Aracaju;SE
+253;Voa Internet;;TELECOMUNICAÇÕES;Marcelo Junior;Marcelo;CEO;R. Horácio Hora, 73;49170-000;Laranjeiras ;SE
+254;Votorantim Cimentos;;INDUSTRIA ;Danilo Valadares Pinto;Danilo ;Diretor de Operacoes ; Fazenda Brandão, s/n, Zona Rural;49170-000;Laranjeiras ;SE
+255;Wert Investimentos;(79) 3303-9528;BANCO DE INVESTIMENTO;Felipe Libório;Felipe;CEO;Av. Delmiro Gouveia, 463, Coroa do Meio; 49035-500;Aracaju;SE
+256;Xingó Parque Hotel;(79) 3346-1245;HOTEL;José Donisete Aragão;José;Socio - Diretor;Serra do Chapéu de Couro, S/N - Zona Rural ;49820-000 ;Canindé de São Francisco;SE
+257;Yazaki do Brasil;(79) 3114-4600;FABRICANTE DE AUTOPEÇAS;Mikael Soares ;Jorge;Analista de RH ;Av. Francisco Ivens de Sá Dias Branco, s/n - Quadra M - Lote 01 a 023 - Distrito Industrial;49160-000;Nossa Sra. do Socorro;SE
+273;CLIMEDI ;(79) 2107-9800;CLINICA;João Macedo;João;Diretor;Av. Barão de Maruim, 570;49085-100;Aracaju;SE
+274;Mix Mateus ;;SUPERMERCADO;Rodrigo Santos de Lima ;Rodrigo ;Gerente Geral ;Av. Chanceler Osvaldo Aranha, 1110 - José Conrado de Araújo;49085-100;Aracaju;SE
+275;Gonzaga Hipermercado ; (79) 99688-7947;SUPERMERCADO;Lenilson Mota;Lenilson  ;Diretor ;Rua Castro Alves, 618 - Ponto Novo;49047-090;Aracaju;SE
+276;Mônica Andrade Imóveis ;(79) 3246-3454;IMOBILIARIA;Mônica Andrade ;Mônica ;CEO; Av. Jorge Amado, n° 1241 - Jardins ;49025-330;Aracaju;SE
+277;Hiper Economize ;;SUPERMERCADO;Fábio Júnior;Fábio;Diretor-presidente ;Av. Coelho e Campos, 1427 - Getúlio Vargas ;;Aracaju;SE
+278;Fiat Revemar ; (79) 3024-7300;CONCESSIONÁRIA ;Julio Rodrigues ;Julio;Gerente Comercial ;Av. Oviedo Teixeira, 959 - Jardins;49026-100;Aracaju;SE
+279;Concessionária Entre Rios ;(79) 3236-2604;CONCESSIONÁRIA ;José Carlos Silveira ;José ;Gerente Executivo;Travessa Manoel Aguiar 1556 - glp;49055-750;Aracaju;SE
+280;Bomfim Cargas ; (79) 3218-9900;TRANSPORTADORA ;Silvia Buarque ;Silvia ;Gerente ;Rua Paraíba, 240 - Siqueira Campos ;49085-510;Aracaju;SE
+281;Comercial Ferrocorte ;(79) 3241-8961;DISTRIBUIDORA ;Sandro Roberto ;Sandro;Diretor ;Rua Paraíba, 855 - Siqueira Campos ;49080-440;Aracaju;SE
+282;AC Engenharia ;(79) 3251-9100;CONSTRUTORA;Adrielso Celestino ;Adrielson ;Sócio-Administrador;Rua 4, 18 - Jabotiana ;49095-230;Aracaju;SE
+283;Construtora Cunha ;(79) 3217-6627;CONSTRUTORA;José Francisco da Cunha ;José ;Sócio-Administrador;Av. Antônio Fagundes de Santana, 15 - Treze de Julho  ;49020-070;Aracaju;SE
+284;Dicon Engenharia ; (79) 3249-3091;CONSTRUTORA;Diogo Barreto ;Diogo ;Diretor ;Rua Jenner Augusto, 50 - Treze de Julho ;49026-200;Aracaju;SE
+285;Inplast ;(79) 3024-9200;INDÚSTRIA ;Jamile Ramos ;Jamile ;Analista de DP;Rua Dr - R. Gutemberg Chagas, 350 - Grageru ;49040-780;Aracaju;SE
+286;Embalacenter;(79) 3411-2186;DISTRIBUIDORA;Fábio Júnior ;Fábio;Diretor ;Rua Maria dos Prazeres Santana, 70 - Sebastião Lopes;4960-000;Nossa Senhora da Glória;SE
+287;NOS - Núcleo de Oncologia de Sergipe ;(79) 3301-3235;CLINICA;Bruno Ferrari ;Bruno ;Diretor ;Av. Deputado Pedro Valadares, 550 - Jardins ;49025-090;Aracaju ;SE
+288;JDE Coffee - Pilão ;;INDÚSTRIA ;Rose Sommer ;Rose ;Gerente de Negócios ;Rod.  BR 101, Km 118, S/N - Distrito Ind, R. Manoel Condé Sobral;49120-000;Itaporanga d'Ajuda;SE

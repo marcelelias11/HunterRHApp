@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Campanha de Cartas</title>
+    <style>
+      table {
+        border-spacing: 0;
+      }
+      table td {
+        border: 1px solid black;
+        padding: 0 5px 0 5px;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .blue {
+        color: blue;
+      }
+      .green {
+        color: green;
+      }
+      .yellow {
+        color: yellow;
+      }
+      .red {
+        color: red;
+      }
+      .tablehide {
+        display: none;
+      }
+      .tableshow {
+        display: flex;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="cartascontainer">
+      <form>
+        <label for="empresas">Empresa:</label>
+        <select name="empresas" id="empresas"></select>
+        <br /><br />
+        <label for="candidatos">Candidato:</label>
+        <select name="candidatos" id="candidatos"></select>
+        <br /><br />
+      </form>
+      <div id="buttondiv">
+        <button id="formsubmit">Enviar</button>
+        <button id="showtable">Mostrar Enviados</button>
+      </div>
+      <div id="tablediv"><table id="senttable"></table></div>
+    </div>
+    <script src="cartas.js"></script>
+  </body>
+</html>

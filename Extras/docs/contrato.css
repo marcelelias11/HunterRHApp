@@ -1,0 +1,108 @@
+body {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  width: 210mm;
+  height: 297mm;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+header #cabecalho {
+  display: flex;
+  flex-direction: row;
+}
+
+#lowerheader {
+  padding-left: 10%;
+  display: flex;
+  flex-direction: row;
+}
+
+#signhere {
+  position: absolute;
+  right: 28%;
+}
+
+#hunterhlogo {
+  max-height: 4rem;
+  width: auto;
+}
+
+#recrutamento {
+  position: absolute;
+  right: 28%;
+}
+
+#separator {
+  background-color: #000000;
+  height: 2px;
+  width: 100%;
+}
+
+#prestacao {
+  max-width: 40%;
+  position: relative;
+  left: 60%;
+  text-align: justify;
+}
+
+#inputspace {
+  width: 45.5%;
+  position: absolute;
+  top: 42%;
+  left: 28%;
+  background-color: #c0c0c0;
+}
+
+#infoempresa {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+}
+
+.infoempresa {
+  background-color: #d9d9d9;
+  border-bottom: solid #000000 2px;
+}
+.infoempresa p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#infolocal,
+#infocontato,
+#infopessoal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+table {
+  width: 100%;
+  border: 0.05rem solid #000000;
+  border-spacing: 0px;
+}
+
+table td {
+  border: 0.05rem solid #000000;
+}
+
+table thead {
+  border: 0.05rem solid #000000;
+  background-color: #d9d9d9;
+  font-weight: bold;
+}
+
+#assinaturas {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20%;
+  padding-right: 10%;
+}
+
+#assinaturas p {
+  border-top: solid 1px #000000;
+  text-align: center;
+}

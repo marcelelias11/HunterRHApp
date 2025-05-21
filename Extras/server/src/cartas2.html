@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Cartas</title>
+    <base href="./" />
+  </head>
+  <body class="FPV">
+    <div id="bodyexport">
+      <header class="FPV" id="FPVHeader">
+        <img
+          class="FPV"
+          id="fpvhunterhlogo"
+          src="./img/logo.png"
+          alt="Logo da HunteRH"
+        />
+        <div></div>
+      </header>
+      <div id="corpocarta">
+        <p>
+          Ilmº. Sr.<br />
+          <span id="contato" style="font-weight: bold">«CONTATO»</span><br />
+          <span id="cargo" style="font-weight: bold">«CARGO»</span><br />
+          <span id="empresa" style="font-weight: bold">«EMPRESA_»</span>
+        </p>
+        <p style="font-weight: bold">Aracaju, 13 de Novembro de 2023.</p>
+        <p style="font-weight: bold">
+          Prezado Senhor <span id="contato2">«CONTATO»</span>
+        </p>
+        <p>
+          Somos uma Empresa de Headhunters e assessoramos
+          <span style="text-decoration: underline"
+            >Executivos de Alta Performance.</span
+          >
+        </p>
+        <p>
+          Apresentamos em anexo, para a sua apreciação, Líderes altamente
+          qualificados que buscam novas oportunidades no mercado de trabalho.
+        </p>
+        <p>
+          Gostaríamos que V.S.ª. analise os seus perfis, pois todos possuem
+          potencial para
+          <span style="font-weight: bold"
+            >aumentar o desempenho de sua organização</span
+          >, seja
+          <span style="text-decoration: underline"
+            >ampliando os seus ganhos, reduzindo os seus custos ou aumentando
+            sua produtividade.</span
+          >
+        </p>
+        <p>
+          Todos apresentam particular interesse em trabalhar em sua empresa e
+          estão à sua disposição para agendarmos um contato pessoal, presencial
+          ou virtualmente, ocasião em que poderão apresentar mais detalhes sobre
+          suas experiências.
+        </p>
+        <p>
+          Para agendar uma reunião com quaisquer de nossos clientes, ou para
+          maiores informações sobre particularidades de seus currículos,
+          solicitamos a gentileza de entrar em contato pelo Whatsapp (11)
+          99774-2035, pelo telefone
+          <span style="font-weight: bold">(79) 99642-7335</span> ou ainda
+          através do e-mail:
+          <span style="font-weight: bold">diretoria@hunterh.com.br</span>,
+          citando o nome do executivo com o qual deseja agendar.
+        </p>
+        <p style="font-weight: bold">
+          Informamos, ainda, que a contratação de quaisquer desses profissionais
+          <span style="text-decoration: underline"
+            >NÃO implicará custos de honorários para a sua empresa.</span
+          >
+        </p>
+        <p>Aguardamos seu retorno, conforme seu interesse.</p>
+        <div id="cordialmente">
+          <p>
+            Cordialmente,<br />
+            <span style="font-weight: bold">Ione Araújo</span><br />
+            <span style="font-weight: bold">Diretora HunteRH</span><br />
+            diretoria@hunterh.com.br
+          </p>
+        </div>
+      </div>
+      <div id="fpvseparatordiv">
+        <div id="fpvseparator"></div>
+        <div id="fpvseparator" style="height: 2px"></div>
+      </div>
+      <footer id="fpvfooter" class="FPV">
+        <p class="FPV">
+          <span style="font-weight: bold"
+            >HunteRH Executives – Capital Humano Executivo</span
+          ><br />
+          www.hunterh.com.br - diretoria@hunterh.com.br
+        </p>
+      </footer>
+    </div>
+    <script>
+      let counter = Number(sessionStorage.getItem("contagem")) || 0;
+      fetch("/cartas/dados/carta")
+        .then(async function (response) {
+          return await response.json();
+        })
+        .then(async function (text) {
+          if (
+            text[counter].contato === "" ||
+            text[counter].empresa === "" ||
+            text[counter].cargo === ""
+          ) {
+            document.body.style.display = "none";
+          }
+          document.getElementById("contato").innerText = text[counter].contato;
+          document.getElementById("empresa").innerText = text[counter].empresa;
+          document.getElementById("cargo").innerText = text[counter].cargo;
+          document.getElementById("contato2").innerText = text[counter].contato;
+          console.log(text);
+        })
+        .catch((error) => {
+          console.error(error);
+        });
+
+      sessionStorage.setItem("contagem", counter + 1);
+    </script>
+  </body>
+</html>
